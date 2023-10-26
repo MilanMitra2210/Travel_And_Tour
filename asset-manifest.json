@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Travel_And_Tour/static/css/main.09ba9a27.css",
+    "main.js": "/Travel_And_Tour/static/js/main.51f57b3a.js",
+    "static/media/video2.mp4": "/Travel_And_Tour/static/media/video2.204282fce0a2ae1b1041.mp4",
+    "static/media/beach.mp4": "/Travel_And_Tour/static/media/beach.d25f244bc909f38e0c5d.mp4",
+    "static/media/image1.jpg": "/Travel_And_Tour/static/media/image1.ebd1931857b73245d9d9.jpg",
+    "index.html": "/Travel_And_Tour/index.html",
+    "main.09ba9a27.css.map": "/Travel_And_Tour/static/css/main.09ba9a27.css.map",
+    "main.51f57b3a.js.map": "/Travel_And_Tour/static/js/main.51f57b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ba9a27.css",
+    "static/js/main.51f57b3a.js"
+  ]
+}
